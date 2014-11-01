@@ -1,0 +1,11 @@
+{
+  "name": "markov-ka",
+  "version": "0.0.0",
+  "description": "",
+  "main": "markov.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "markov": "0.0.7"
+  }
+}
